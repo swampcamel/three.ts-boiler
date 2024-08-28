@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "three": "^0.112.1",
-    "webpack": "4.41.5"
+    "webpack": "5.94.0"
   },
   "devDependencies": {
     "extract-text-webpack-plugin": "3.0.2",
